@@ -1,0 +1,16 @@
+============================================================
+Help information to using calculator.
+You can use next OPERATORS:
++ : addition operation. For example a+b;
+- : subtraction operation. For example a-b;
+* : multiplication operation. For example a*b;
+/ : division operation. For example a/b;
+^ : raised to the power operation. For example a^b;
+( : open bracket;
+) : close bracket;
+FUNCTIONS:
+sum(a;b;c) : return a+b+c result;
+max(a;b;c) : return max element from a, b, c;
+min(a;b;c) : return min element from a, b, c;
+sqrt(a) : return a^0.5;
+pi() : return PI, like 3.141592653589793;
